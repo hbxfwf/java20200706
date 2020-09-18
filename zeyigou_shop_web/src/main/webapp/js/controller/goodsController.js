@@ -257,4 +257,7 @@ app.controller('goodsController' ,function($scope,$controller,$location,itemCatS
 			}
 		}
 	}
+	function testGit(){
+		console.log("testGit....");
+	}
 });	
